@@ -1,0 +1,6 @@
+# Word / Excel / PPT 打开文件时生成的临时锁文件
+~$*
+
+# Windows 系统自动生成的文件
+Thumbs.db
+desktop.ini
