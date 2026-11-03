@@ -9,6 +9,10 @@
 - 关联远程仓库（git remote add）
 - 推送到 GitHub（git push）
 
+## 练习记录
+
+第一次修改：学会了 add / commit / push 三步。
+
 ## 后续计划
 
 - 学习分支（branch）
